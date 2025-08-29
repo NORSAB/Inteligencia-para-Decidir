@@ -1,10 +1,24 @@
 # Inteligencia para Decidir 💡
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NORSAB/Inteligencia-para-Decidir/main/assets/images/logos/logo-principal.svg" alt="Logo Inteligencia para Decidir" width="300"/>
+  <img src="https://raw.githubusercontent.com/NORSAB/Inteligencia-para-Decidir/main/assets/images/logos/Logotipo.png" alt="Logo Inteligencia para Decidir" width="350"/>
 </p>
 
-¡Bienvenido al backstage del blog **[Inteligencia para Decidir](https://normansabillon.hashnode.dev/inteligencia-para-decidir)**!
+<div align="center">
+  <a href="https://www.linkedin.com/in/norman-reynaldo-sabillon-castro">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://community.fabric.microsoft.com/t5/user/viewprofilepage/user-id/924513">
+    <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI Badge"/>
+  </a>
+  <a href="https://public.tableau.com/app/profile/norman.reynaldo.sabillon.castro/vizzes">
+    <img src="https://img.shields.io/badge/Tableau-1B75BB?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Badge"/>
+  </a>
+</div>
+
+<br>
+
+¡Bienvenido al backstage del blog **[Inteligencia para Decidir](https://inteligenciaparadecidir.hashnode.dev/)**!
 
 Este repositorio es el centro de operaciones donde alojo todos los recursos prácticos que comparto en mis artículos. Nació de una idea simple: la teoría es útil, pero el verdadero aprendizaje en Business Intelligence viene de la práctica y la experiencia vivida.
 
@@ -18,71 +32,84 @@ Este espacio está organizado para que puedas encontrar y utilizar fácilmente l
 
 * 🖼️ **Imágenes y Gráficos:** Todas las visualizaciones, diagramas y capturas de pantalla que uso en mis artículos para ilustrar conceptos clave.
 * 💻 **Código y Scripts:** Fragmentos de código en SQL, Python (Pandas), DAX, M y más, listos para que los uses y adaptes a tus propios proyectos.
-* 📊 **Reportes y Plantillas:** Archivos de Power BI (`.pbix`) y Tableau (`.twbx`) para que puedas descargar, explorar y aprender de ejemplos funcionales y bien estructurados.
-* 📄 **Recursos Adicionales:** Datasets de ejemplo, plantillas de diseño, checklists y cualquier otro material que te ayude a acelerar tu trabajo.
+* 📊 **Reportes y Plantillas:** Archivos de Power BI (`.pbix`) y Tableau (`.twbx`) para que puedas descargar, explorar y aprender de ejemplos funcionales.
+* 📄 **Recursos Adicionales:** Datasets de ejemplo, checklists y cualquier otro material que te ayude a acelerar tu trabajo.
 
 ---
 
 ## 📂 Estructura del Repositorio
 
-Para mantener todo en orden, los archivos están organizados por tipo y, usualmente, por el nombre del artículo al que pertenecen. Por ejemplo:
+Para mantener todo en orden, los archivos están organizados por tipo y por el artículo al que pertenecen.
+
+
 /
 ├── assets/
 │   ├── images/
 │   │   ├── logos/
-│   │   │   ├── logo-principal.svg  <-- Tu logo estará aquí
-│   │   │   └── favicon.ico
+│   │   │   └── Logotipo.png  <-- Tu logo
 │   │   └── posts/
-│   │       ├── 01-piramide-diseno-estrategico/
-│   │       │   ├── piramide.png
-│   │       │   └── diagrama-flujo.jpg
-│   │       └── 02-modelo-estrella-ventas/
-│   │           └── esquema-modelo-estrella.png
-│   │
+│   │       └── 01-piramide-diseno-estrategico/
+│   │           └── piramide.png
 │   ├── code/
 │   │   ├── sql/
-│   │   │   └── funcion-calculo-ventas.sql
-│   │   ├── python/
-│   │   │   └── script-limpieza-datos.py
 │   │   └── dax/
-│   │       └── medida-ventas-acumuladas.dax
-│   │
-│   ├── reports/
-│   │   ├── power-bi/
-│   │   │   └── reporte-financiero-v1.pbix
-│   │   └── tableau/
-│   │       └── dashboard-operaciones.twbx
-│   │
-│   └── data/
-│       ├── raw/
-│       │   └── ventas-2023.csv
-│       └── processed/
-│           └── ventas-2023-limpio.csv
-│
+│   └── reports/
+│       ├── power-bi/
+│       └── tableau/
 └── README.md
+
+
 ---
 
-## ✍️ Sobre el Blog
+## 👨‍💻 Sobre el Autor
 
-El blog **Inteligencia para Decidir** no es solo sobre herramientas. Es sobre la mentalidad, la estrategia y las buenas prácticas que marcan la diferencia entre un reporte que se entrega y un reporte que se **usa**. Exploramos temas como:
+🌍 **Ubicación:** Tegucigalpa, Honduras
 
-* Visualización de Datos y Storytelling.
-* Modelado de Datos (Modelos Estrella, etc.).
-* ETL y preparación de datos.
-* Análisis y estrategia de negocio.
-* Productividad y trucos del día a día como analista.
+🚀 **Actualmente trabajando en:** Contenido y proyectos de BI y ML, creando dashboards, tutoriales y formaciones enfocadas en data storytelling accionable.
+
+🧠 **Actualmente aprendiendo:** Machine Learning, cursando un Máster en Big Data y la **Certificación Profesional de Machine Learning Engineer** de Google.
+
+🥋 **Pasión:** El Kung Fu. Disfruto aplicando la disciplina y el flujo de este arte tanto en la vida como en el trabajo con datos.
+
+🤝 **Abierto a colaborar en:** Proyectos de Power BI y Machine Learning, talleres educativos e iniciativas para la comunidad de datos en Honduras y Latinoamérica.
+
+⚡ **Dato curioso:** Transformo datos en historias e inspiro a futuros profesionales de BI y ML a través de coaching y enseñanza.
+
+### Skills
+
+<p align="left">
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/power-bi.png" width="36" height="36" alt="Power BI" /></a>
+  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="36" height="36" alt="Tableau" /></a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="R" /></a>
+  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
+  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
+  <a href="https://portal.azure.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" width="36" height="36" alt="Azure" /></a>
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+</p>
 
 ---
 
 ## 🔗 Conecta Conmigo
 
-¡La conversación no termina en el blog! Me encantaría saber de ti, tus retos y tus proyectos.
+* ✍️ **Blog: [Inteligencia para Decidir](https://inteligenciaparadecidir.hashnode.dev/)**
+* 🌐 **Blog: [El Puente al Machine Learning](https://normansabillon.hashnode.dev/)**
+* 💼 **LinkedIn: [Norman Sabillon](https://www.linkedin.com/in/norman-reynaldo-sabillon-castro)**
+* 🖥️ **Portafolio Power BI: [NovyPro](https://www.novypro.com/profile_about/norman-reynaldosabillon-castro)**
 
-* ✍️ **Lee el blog:** **[Inteligencia para Decidir](https://normansabillon.hashnode.dev/inteligencia-para-decidir)**
-* 💼 **Conecta en LinkedIn:** **[Tu Perfil de LinkedIn](https://www.linkedin.com/in/normansabillon/)** * 🌐 **Blog "El Puente al ML":** **[normansabillon.hashnode.dev](https://normansabillon.hashnode.dev/)**
+---
+
+### 🙌 Apoya mi Trabajo
+
+Si encuentras útil mi contenido, considera apoyarme. ¡Un café siempre es bienvenido!
+
+<a href="https://www.buymeacoffee.com/sabillonrer" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 145px !important;" ></a>
+<a href="https://ko-fi.com/normanreynaldosabilloncastro" target="_blank"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" alt="Ko-fi" style="height: 40px !important;width: 145px !important;" ></a>
 
 ---
 
 ## 📜 Licencia
 
-El contenido de este repositorio está bajo la [Licencia MIT](https://github.com/NORSAB/Inteligencia-para-Decidir/blob/main/LICENSE). Eres libre de usar, modificar y distribuir los recursos como consideres, siempre y cuando des el crédito correspondiente.
+El contenido de este repositorio está bajo la [Licencia MIT](https://github.com/NORSAB/Inteligencia-para-Decidir/blob/main/LICENSE). Eres libre de usar, modificar y distribuir los recursos como consideres.
